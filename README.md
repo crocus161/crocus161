@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Danial - aka [willcode228]👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Ukraine(Odessa, Kropivnitskiy)</h3>
 
 ---
 
