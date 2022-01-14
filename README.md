@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [YouTube React Clone](https://react-app-cab0d.web.app)
 
-- 🌱 I’m currently learning **React js Advance**
+- 🌱 I’m currently learning **Redux-Toolkit**
 
 
 <h3 align="left">Languages and Tools I am familiar with:</h3>
