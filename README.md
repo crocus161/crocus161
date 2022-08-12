@@ -6,14 +6,13 @@
 
 - 🔭 I’m currently working on [Google Translator Clone](https://translator--copy.web.app/text)
 
-- 🌱 I’m currently renew my knowledge of **Next, Mobx, Js, Ts**
-<br /><br />
+- 🌱 I’m currently deepen my knowledge of **Javascript, Typescript**
+<br /><br /><br /><br />
 
 
 <h3 align="left">Languages and Tools I am familiar with:</h3>
 
 <p align="center">
-  
 <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -36,8 +35,8 @@
 <img alt="Figma" src="https://img.shields.io/badge/figma-834291?style=for-the-badge&logo=figma&logoColor=white" />
 <img alt="Pug" src="https://img.shields.io/badge/pug-139299?style=for-the-badge&logo=pug&logoColor=white"  />
 <img alt="Gulp" src="https://img.shields.io/badge/gulp-139459?style=for-the-badge&logoColor=white" />
-<br/>
 </p>
+<br /><br /><br /><br />
 
 <h3 align="left">Contacts:</h3>
 
@@ -49,6 +48,7 @@
     </a>
   </div>
 </p>
+<br /><br /><br /><br />
 
 ## 🏆 *Github Status*
 
