@@ -41,12 +41,9 @@
 <h3>Contacts</h3>
 
 <p>
-  
-  <div align="center">
-    <a href="mailto:crocus161@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </div>
+  <a href="mailto:crocus161@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 <br /><br /><br /><br />
 
