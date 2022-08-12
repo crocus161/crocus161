@@ -38,9 +38,9 @@
 </p>
 <br />
 
-<h3 align="center">Contacts</h3>
+<h3>Contacts</h3>
 
-<p align="center">
+<p>
   
   <div align="center">
     <a href="mailto:crocus161@gmail.com">
