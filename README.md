@@ -38,7 +38,7 @@
 </p>
 <br />
 
-<h3>Contacts</h3>
+<h3>Contacts:</h3>
 
 <p>
   <a href="mailto:crocus161@gmail.com">
