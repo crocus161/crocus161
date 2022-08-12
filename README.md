@@ -34,7 +34,9 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=willcode228&theme=dark" width="48%" >
 <br>
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=willcode228&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=willcode228&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15" />
+  </a>
 </div>
 
 
