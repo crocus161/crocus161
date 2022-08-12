@@ -35,7 +35,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" width="48%">
-    <img src="https://github-profile-trophy.vercel.app/?username=willcode228&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15" />
+    <img style="text-align: center;" src="https://github-profile-trophy.vercel.app/?username=willcode228&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15" />
   </a>
 </div>
 
