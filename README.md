@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Google Translator Clone](https://translator--copy.web.app/text)
 
 - 🌱 I’m currently deepen my knowledge of **Javascript, Typescript**
-<br /><br /><br />
+<br /><br />
 
 
 <h3 align="left">Languages and Tools I am familiar with:</h3>
@@ -36,7 +36,7 @@
 <img alt="Pug" src="https://img.shields.io/badge/pug-139299?style=for-the-badge&logo=pug&logoColor=white"  />
 <img alt="Gulp" src="https://img.shields.io/badge/gulp-139459?style=for-the-badge&logoColor=white" />
 </p>
-<br /><br />
+<br />
 
 <h3 align="center">Contacts</h3>
 
