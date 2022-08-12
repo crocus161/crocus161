@@ -19,7 +19,9 @@
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
   
-[<img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:crocus161@gmail.com)
+<div align="center">
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crocus161@gmail.com)
+</div>
   
 <br/>
 </p>
@@ -30,7 +32,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=willcode228&theme=dark" width="48%" >
 <br>
 <div align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=willcode228&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
