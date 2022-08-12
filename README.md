@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on [YouTube React Clone](https://react-app-cab0d.web.app)
+- 🔭 I’m currently working on [Google Translator Clone](https://translator--copy.web.app/text)
 
 - 🌱 I’m currently learning **Redux-Toolkit**
 
@@ -34,7 +34,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=willcode228&theme=dark" width="48%" >
 <br>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" width="48%">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img style="text-align: center;" src="https://github-profile-trophy.vercel.app/?username=willcode228&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15&column=2" />
   </a>
 </div>
