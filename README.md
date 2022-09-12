@@ -30,11 +30,11 @@
 <img alt="Redux-Thunk" src="https://img.shields.io/badge/redux-thunk-593D88?style=for-the-badge&logoColor=white"  />
 <img alt="Redux-Toolkit" src="https://img.shields.io/badge/redux-toolkit-593D88?style=for-the-badge&logoColor=white"  />
 <img alt="MobX" src="https://img.shields.io/badge/MobX-239120?style=for-the-badge&logo=mobx&logoColor=white" />
-<img alt="Next" src="https://img.shields.io/badge/next-000000?style=for-the-badge&logoColor=white&logo=next.js" />
-<img alt="i18next" src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logoColor=white&logo=i18next" />
 <img alt="React-hook-form" src="https://img.shields.io/badge/react%20hook%20form-EC5990?style=for-the-badge&logoColor=white&logo=react-hook-form" />
 <img alt="Formik" src="https://img.shields.io/badge/formik-7B42BC?style=for-the-badge&logoColor=white" />
 <img alt="Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> 
+<img alt="Next" src="https://img.shields.io/badge/next-000000?style=for-the-badge&logoColor=white&logo=next.js" />
+<img alt="i18next" src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logoColor=white&logo=i18next" />
 </p>
 <br />
 
