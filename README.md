@@ -44,6 +44,21 @@
   <a href="mailto:crocus161@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://signal.group/#CjQKIKuQ_-x6-Y8gq4aG9B1cAg5PRwkE_t9XKwDUFpqEaWx2EhCCHBLOy-vEct-nxNxSZuXM">
+    <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" />
+  </a>
+  <a href="https://t.me/crocus161">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/761135344086679574">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/%D0%B4%D0%B0%D0%BD%D0%B8%D0%BB-%D0%B8%D0%BB%D1%8C%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-2b13841a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.codewars.com/users/Daniil_Ilchenko">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+  </a>
 </p>
 <br /><br /><br /><br />
 
