@@ -1,4 +1,4 @@
-# Hi there, I'm Danial - aka [crocus161]👋
+# Hi there, I'm Danil - aka [crocus161]👋
 
 I'm a passionate frontend developer from Ukraine (Odessa, Kropivnitskiy) with a keen interest in creating intuitive and dynamic web applications. I have a strong foundation in HTML, CSS, JavaScript, and TypeScript, I specialize in building responsive and user-friendly interfaces.
 
