@@ -1,14 +1,14 @@
 # Hi there, I'm Danil - aka [crocus161]👋
 
-I'm a passionate frontend developer from Ukraine (Odessa, Kropivnitskiy) with a keen interest in creating intuitive and dynamic web applications. I have a strong foundation in HTML, CSS, JavaScript, and TypeScript, I specialize in building responsive and user-friendly interfaces.
+I'm a passionate frontend developer from Ukraine (Odessa, Kropivnitskiy) with a keen interest in creating intuitive and dynamic web applications. Currently I specialize in building responsive and user-friendly interfaces.
 
 ## Experience and Projects 🧐
-I have a deep understanding and hands-on experience with a wide range of tools and technologies in the external development ecosystem. Most of all possible tools have already been studied by me or are in my plans for further growth.
+I have a deep understanding and hands-on experience with a wide range of tools and technologies in the external development ecosystem. Most of all main frontent tools have already been studied by me or are in my plans for further growth.
 
-I have been actively working on various projects that demonstrate my proficiency in modern frontend technologies. Currently, I am working on a [Google Translator Clone](https://translator--copy.web.app/text) which showcases my ability to implement complex features and deliver seamless user experiences. Additionally, I have completed numerous projects involving React, Redux, Mobx and other state management libraries, showcasing my ability to handle large-scale applications.
+I have been actively working on various projects that demonstrate my proficiency in modern frontend technologies. Currently, I am working on a [Google Translator Clone](https://translator--copy.web.app/text) which showcases my ability to implement complex features and deliver seamless user experiences. Additionally, I have completed numerous projects involving React, Redux, Mobx, Next.js, Typescript and others.
 
 ## Personal Interests and Motivations 😌
-My web development journey started in school with a fascination with how websites work and the endless possibilities they offer. I am particularly motivated by the challenge of creating apps that not only meet user needs, but also provide a great experience. I like to create clones of popular big platforms, native apps or small functional pages, which often inspires me and supports my creativity.
+My web development journey started in school with a fascination with how websites work and the endless possibilities they offer. I am dedicated to continuous learning and staying updated with the latest industry trends to bring the best solutions to the projects I work on. I am particularly motivated by the challenge of creating apps that not only meet user needs, but also provide a great experience. Also I like to create clones of popular big platforms, native apps or small functional pages, which often inspires me and supports my creativity.
 
 ## Сontacts 🙌
 <p>
