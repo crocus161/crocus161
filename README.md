@@ -1,14 +1,12 @@
+# Hi there, I'm Danial - aka [crocus161]👋
 
-<h1 align="center">Hi there, I'm Danial - aka [crocus161]👋</h1>
-<h3 align="center">A passionate frontend developer from Ukraine(Odessa, Kropivnitskiy)</h3>
+I'm a passionate frontend developer from Ukraine (Odessa, Kropivnitskiy) with a keen interest in creating intuitive and dynamic web applications. I have a strong foundation in HTML, CSS, JavaScript, and TypeScript, I specialize in building responsive and user-friendly interfaces.
 
----
+## Experience and Projects
+I have been actively working on various projects that demonstrate my proficiency in modern frontend technologies. Currently, I am working on a [Google Translator Clone](https://translator--copy.web.app/text) which showcases my ability to implement complex features and deliver seamless user experiences. Additionally, I have completed numerous projects involving React, Redux, and other state management libraries, showcasing my ability to handle large-scale applications.
 
-- 🔭 I’m currently working on [Google Translator Clone](https://translator--copy.web.app/text)
-
-- 🌱 I’m currently deepen my knowledge of **Javascript, Typescript**
-<br /><br />
-
+## Personal Interests and Motivations
+My journey in web development started out of a fascination with how websites work and the endless possibilities they offer. I am particularly motivated by the challenge of creating applications that not only meet user needs but also provide a delightful experience. Outside of coding, I enjoy [personal hobby or interest], which often inspires my work and keeps my creativity flowing.
 
 <h3 align="left">Languages and Tools I am familiar with:</h3>
 
@@ -44,20 +42,11 @@
   <a href="mailto:crocus161@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://signal.group/#CjQKIKuQ_-x6-Y8gq4aG9B1cAg5PRwkE_t9XKwDUFpqEaWx2EhCCHBLOy-vEct-nxNxSZuXM">
-    <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" />
-  </a>
   <a href="https://t.me/crocus161">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/761135344086679574">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/%D0%B4%D0%B0%D0%BD%D0%B8%D0%BB-%D0%B8%D0%BB%D1%8C%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-2b13841a8/">
+  <a href="https://www.linkedin.com/in/crocus161/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.codewars.com/users/Daniil_Ilchenko">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
   </a>
 </p>
 <br /><br /><br /><br />
@@ -66,11 +55,5 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=willcode228&show_icons=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=willcode228&theme=dark" width="48%" >
-<br>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img style="text-align: center;" src="https://github-profile-trophy.vercel.app/?username=willcode228&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15&column=2" />
-  </a>
-</div>
 
 
